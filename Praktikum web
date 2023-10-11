@@ -1,0 +1,43 @@
+<!doctype html>
+<html> 
+ <head> 
+ </head> 
+ <body> 
+  <h2>Makanan Kucing</h2> 
+     <td> <!--Untuk gambar produk--> 
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9mWyj5XkGffCydavwk-PrGUuVguNGgkZB6uKD16XCow&s" width="250">
+  <table> 
+   <tbody> 
+    <tr> 
+         
+       </td> 
+     <td> <!--Untuk Deskripsi Produk-->
+        <h3>Deskripsi Produk</h3> 
+      <ul> 
+       <li>makanan mereka kebanyakan mengandung protein hewani. Sehingga, secara alami kucing memakan ikan dan daging</li> 
+       <li>Selain itu, nutrisi yang dibutuhkan tubuhnya, seperti protein, asam lemak, mineral, asam amino, fosfor, dan kalsium banyak terkandung dalam daging hewani.</li> 
+      </ul> 
+      <h3>Tersedia ukuran</h3> 
+      <ul> 
+       <li>1 kilo gram</li> 
+       <li>800 gram</li> 
+       <li>500 gram</li> 
+      </ul>
+       <p> 
+         <b>Ongkir</b> 
+         </p> 
+      <ul> 
+       <li>Jabodetabek : Rp. 10.000,-</li> 
+       <li>Diluar Pulau Jawa : Rp. 35.000,- sampai Rp. 50.000,-</li> 
+       <li>Promosi beli 3 gratis 1</li> 
+       <li>beli 2 grastis ongkir</li> 
+      </ul>
+       <p>
+          </p>
+           <h3>Harga Rp.15.000,- s/d Rp.35.000,-</h3> 
+           </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
