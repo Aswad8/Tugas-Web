@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Document</title> 
+ </head> 
+ <body> 
+  <div class="kolom1"> 
+   <img src="a.jpg" width="200px" height"200px"=> 
+  </div> 
+  <div class="kolom2"> 
+   <h1>Profile Name</h1> 
+   <p>Alamat : Bogor,kp.kukupu</p> 
+   <p>Email : siftmh28@gmail.com</p> 
+   <p>Telphone : 0858638392</p> 
+   <p>instagram :<a href="https://instagram.com/"> @sftmh28_</a> </p>
+  </div> 
+  <div class="kolom3">
+Saya adalah pribadi yang optimis tapi bisa pesimis juga.
+Berusaha untuk selalu bertanggung jawab dan menjadikan diri yang lebih baik bagi diri sendiri maupun untuk orang lain.
+Karna ada hadist yang berbunyi...
+Sebaik baiknya manusia adalah yang bermanfaat bagi orang lain
+  </div> 
+  </div> 
+  <div class="kolom4"> 
+   <img src="b.jpg" width="150px" height="80px"> 
+ <img src="c.jpg" width="150px" height="80px">
+  </div> 
+ </body>
+</html>
