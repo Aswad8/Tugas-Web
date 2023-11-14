@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+         background-color: aliceblue;
+         height: 50px;
+         width: 15%;
+         float: left;
+         margin-right: 1em;
+        }
+
+        .baris{
+            background-color: skyblue;
+            width: 81%;
+            float: left;
+            height: 50px;
+            margin-bottom: 1em;
+        }
+ 
+        .main content{
+         background-color: lavenderblush;
+         margin-bottom: 1cm;
+        }
+ 
+        .kolom1{
+        background-color: plum;
+        width: 15%;
+        float: left;
+        margin-right: 1em;
+        height: 350px;
+       }
+ 
+        .keterangan{
+         background-color: lightpink;
+         width: 65%;
+         float: left;
+         height: 350px;
+         margin-right: 1em;
+        }
+ 
+        .baris3{
+         background-color: honeydew;
+         width: 15%;
+         height: 350px;
+         float: left;
+         margin-bottom: 1em;
+        }
+ 
+        .kolom4{
+         background-color: cornflowerblue;
+         width: 96%;
+         float: left;
+         height: 30px;
+         marg
+         margin-right: 1em;
+        }
+ 
+        body{
+         background-color: antiquewhite;
+        }
+ 
+ 
+ 
+ 
+ 
+ </style>
+</head>
+<body>
+    <header>
+        Header
+    </header>
+
+    <baris class="baris">
+        Baris
+    </baris>
+    
+    <div class="main content">
+           <div class="kolom1">
+             kolom 1
+           </div>
+
+           <div class="keterangan">
+             keterangan
+           </div>
+    </div>
+
+    <div class="main content">
+            <div class="baris3">
+              baris3
+            </div>
+         
+             <div class="kolom4">    
+             box4
+             </div>
+    </div>     
+ 
+</body>
+</html>
